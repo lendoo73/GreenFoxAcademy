@@ -12,3 +12,5 @@
 * **`mkdir`**: Creates a new subdirectory. 
 * **`rm -r`**: Remove directory
 * **`exit`**: to close command line
+
+# [Linux commands for beginners](http://www.letix.hu/#allomany)
