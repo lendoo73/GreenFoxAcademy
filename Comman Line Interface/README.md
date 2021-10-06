@@ -14,3 +14,9 @@
 * **`exit`**: to close command line
 
 # [Linux commands for beginners](http://www.letix.hu/#allomany)
+
+# [Relative and absolute path](https://tarhelywiki.hu/?p=853)
+
+# [Elérési útvonal, részletek, példák](https://informatika.gtportal.eu/?f0=os_fajl_108)
+
+# [Directory](https://informatika.gtportal.eu/?f0=os_fajl_106)
