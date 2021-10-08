@@ -30,6 +30,20 @@ The task of the computer network:
 * communications between computers
 * resource sharing
 
+
 LAN: local area network
 [MAN](https://www.cloudflare.com/learning/network-layer/what-is-a-metropolitan-area-network/): metropolitan area network
 [WAN](https://en.wikipedia.org/wiki/Wide_area_network): wide area network
+
+[Network topology](https://en.wikipedia.org/wiki/Network_topology):
+* bus
+* ring
+* star
+
+## [Information and coding](https://www.youtube.com/watch?v=A4IJuL0F2s8)
+
+## [Programming languages](https://www.youtube.com/watch?v=Ty5gqryG0J8)
+
+## [Algorithms and program control](https://www.youtube.com/watch?v=-IWhv1YkWnY)
+
+
