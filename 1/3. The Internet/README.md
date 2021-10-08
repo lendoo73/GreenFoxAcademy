@@ -14,4 +14,4 @@
 
 ## [DNS - rétegek, lookup](https://www.youtube.com/watch?v=1pLYgvrNCWA)
 
-# [DoS, DDoS](https://www.youtube.com/watch?v=Rfg3mIGvIhg)
+## [DoS, DDoS](https://www.youtube.com/watch?v=Rfg3mIGvIhg)
