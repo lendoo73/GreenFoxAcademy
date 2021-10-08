@@ -15,3 +15,9 @@
 ## [DNS - rétegek, lookup](https://www.youtube.com/watch?v=1pLYgvrNCWA)
 
 ## [DoS, DDoS](https://www.youtube.com/watch?v=Rfg3mIGvIhg)
+
+## [Hosting vs. Domain name](https://www.youtube.com/watch?v=ixs-FDtKYSo)
+
+## [The beginning of the Internet](https://www.youtube.com/watch?v=a9Hb-4oW_ic)
+
+## [Network theoretical foundations](https://www.youtube.com/watch?v=NoEmZJAC-dU)
