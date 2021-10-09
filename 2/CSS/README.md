@@ -4,5 +4,5 @@
 
 ## [CSS Diner](https://flukeout.github.io/#)
 
-![I did it](CSS_Diner_Where_we_feast_on_CSS_Selectors.pdf)
+![done](done.pdf)
 
