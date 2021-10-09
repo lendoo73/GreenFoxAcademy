@@ -5,3 +5,5 @@
 ## [CSS Diner](https://flukeout.github.io/#)
 
 ![done](done.jpg)
+
+## [CSS setup and syntax on Codeacademy](https://www.codecademy.com/courses/learn-css/lessons/learn-css-setup-and-syntax/exercises/intro-to-css)
