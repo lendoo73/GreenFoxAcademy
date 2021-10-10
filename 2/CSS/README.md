@@ -7,3 +7,9 @@
 ![done](done.jpg)
 
 ## [CSS setup and syntax on Codeacademy](https://www.codecademy.com/courses/learn-css/lessons/learn-css-setup-and-syntax/exercises/intro-to-css)
+
+## [Selectors and Visual Rules on Codeacademy](https://www.codecademy.com/courses/learn-css/lessons/learn-css-selectors/exercises/type)
+
+## [Box model on Codeacademy](https://www.codecademy.com/courses/learn-css/lessons/box-model-intro/exercises/box-model-review)
+
+
