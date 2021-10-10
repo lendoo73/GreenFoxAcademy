@@ -12,4 +12,4 @@
 
 ## [Box model on Codeacademy](https://www.codecademy.com/courses/learn-css/lessons/box-model-intro/exercises/box-model-review)
 
-
+## [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
