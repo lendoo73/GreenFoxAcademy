@@ -8,8 +8,7 @@
 
 `mv background.jpeg ./assets/`
 
-https://www.shell-tips.com/bash/download-files-from-shell/
-`curl -o logo.svg https://github.com/green-fox-academy/teaching-materials/blob/master/workshop/first-website/aperture.svg`
+[`curl -o logo.svg https://github.com/green-fox-academy/teaching-materials/blob/master/workshop/first-website/aperture.svg`](https://www.shell-tips.com/bash/download-files-from-shell/)
 
 `mv logo.jpg ./assets`
 
