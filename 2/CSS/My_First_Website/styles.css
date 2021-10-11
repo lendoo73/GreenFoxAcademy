@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    font-family: 'Libre Baskerville', serif;
+    background-image: url("./assets/topography.png");
+}
+
+/* ---------------- Navigation bar ---------------- */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    padding: 0.5rem 4rem;
+}
+
+.right {
+    height: 36px;
+    display: flex;
+    align-items: center;
+    float: right;
+    padding-right: 8rem;
+}
+
+.right a {
+    color: magenta;
+    padding: 0 1rem;
+}
+
+/* ---------------- Main content ---------------- */
+main {
+    margin: 8rem 4rem 4rem 4rem;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+header h2 {
+    margin-bottom: 1rem;
+    color: magenta;
+}
+
+p, article, h3 {
+    margin-bottom: 1rem;
+}
+
+.center {
+    text-align: center;
+    margin: 2rem;
+}
+
+section article p {
+    text-align: justify;
+}
