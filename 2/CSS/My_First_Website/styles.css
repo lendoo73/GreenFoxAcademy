@@ -3,11 +3,13 @@
 * {
     margin: 0;
     padding: 0;
+    --navBG: #333;
+    --magenta: #f09;
 }
 
 html {
     font-size: 16px;
-    font-family: 'Libre Baskerville', serif;
+    font-family: "Libre Baskerville", Curier, serif;
     background-image: url("./assets/topography.png");
 }
 
@@ -17,7 +19,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: black;
+    background-color: var(--navBG);
     padding: 0.5rem 4rem;
 }
 
@@ -30,13 +32,14 @@ nav {
 }
 
 .right a {
-    color: magenta;
+    color: var(--magenta);
     padding: 0 1rem;
 }
 
 /* ---------------- Main content ---------------- */
 main {
     margin: 8rem 4rem 4rem 4rem;
+    line-height: 1.6;
 }
 
 h1 {
@@ -45,7 +48,7 @@ h1 {
 
 header h2 {
     margin-bottom: 1rem;
-    color: magenta;
+    color: var(--magenta);
 }
 
 p, article, h3 {
