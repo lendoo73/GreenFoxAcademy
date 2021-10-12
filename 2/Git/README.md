@@ -34,11 +34,20 @@ Update git: `git update-git-for-windows` then press <kbd><b>y</b></kbd> and <kbd
 `git remote add origin https://github.com/lendoo73/GitTest.git`
 origin is an alias
 
+## Pull
+
+`git pull origin HEAD --allow-unrelated-histories`
+
+
 ## Pushing remotely
 
 `git push -u origin HEAD`
 
+## Clone repository
 
+If the GitHub repository already created
+
+`git clone https://github.com/lendoo73/GitTest.git`
 
 
 
