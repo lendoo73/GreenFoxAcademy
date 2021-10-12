@@ -31,6 +31,8 @@ Update git: `git update-git-for-windows` then press <kbd><b>y</b></kbd> and <kbd
 
 ## Remote repository
 
+To remove addition.
+
 `git remote add origin https://github.com/lendoo73/GitTest.git`
 origin is an alias
 
@@ -48,6 +50,27 @@ origin is an alias
 If the GitHub repository already created
 
 `git clone https://github.com/lendoo73/GitTest.git`
+
+## Differences
+
+`git diff HEAD` or `git diff <file-name>`
+
+Head mean the previous completed version
+
+After adding changes `git diff <file-name>` will show nothing
+
+`git diff --staged `
+`git diff --cached <file-name>`
+
+## Resetting the stage
+
+`git reset <file-name>`
+
+## Undo
+
+To remove all modification from the file (undo).
+
+`git checkout -- <file-name>`
 
 
 
