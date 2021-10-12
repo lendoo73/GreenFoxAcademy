@@ -27,11 +27,11 @@ Update git: `git update-git-for-windows` then press <kbd><b>y</b></kbd> and <kbd
 
 ## Setup git user details
 
-`git config`
+`git config --global user.email` get user email
 
 ## Remote repository
 
-`git remote add origin `
+`git remote add origin https://github.com/lendoo73/GitTest.git`
 origin is an alias
 
 ## Pushing remotely
