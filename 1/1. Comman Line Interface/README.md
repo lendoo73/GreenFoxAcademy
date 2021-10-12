@@ -41,3 +41,42 @@
 `rmdir files` delete the files folder but only if empty
 
 `rm files -r` delete all files and the `files` folder
+
+# [Parancssor: Átirányítás](https://www.youtube.com/watch?v=k3TKJHu9Mbc)
+
+`echo text` print `text` to the console 
+
+`echo korte > korte.txt` create the `korte.txt` file with the `korte` content
+
+`cat korte.txt > barack.txt` create the `barack.txt` file and copy into the content of the `korte.txt` file
+
+`ls -al > list.txt`
+
+`echo override > list.txt` override the previous content
+
+`echo "add new row" >> list.txt` add a new row to the `list.txt`
+
+`grep override list.txt` print to the console the rows from the `list.txt` if contains the `override` text
+
+`head blue.txt` print out the first 10 rows from the `blue.txt`
+
+`head ble.txt -n 3` the first 3 rows print out
+
+## The `|` (pipe) operator
+
+Redirect the output from the first command to the second one.
+
+`ls -la | grep txt` only the txt files print out
+
+`ls -la | grep a` only the rows contain `a` will print out
+
+`cat blue.txt | grep 5 | head -n 1` only the first row contain `5` will print out
+
+`cat alma.txt | uniq` only unique rows will print out
+
+`cat alam.txt | sort | uniq | head -n 1` print out the first row from alphabetical row
+
+
+
+
+
