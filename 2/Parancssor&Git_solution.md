@@ -12,10 +12,11 @@
 * Hozz létre legalább egy fájlt minden könyvtárban: `touch images/info.txt css/styles.css`
 * Hozz létre egy first-task könyvtárat a greenfox könyvtárban: `mkdir first-task`
 * Mozgass be minden más fájlt és könyvtárat a first-task könyvtárba: `mv index.html first-task css first-task images first-task`
+
+The result:
 ```cls
 mv: cannot move 'first-task' to a subdirectory of itself, 'first-task/first-task'
 mv: warning: source directory 'first-task' specified more than once
 ```
-
 
 * Innentől dolgozz mindig a greenfox mappában
