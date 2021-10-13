@@ -9,6 +9,11 @@
 cat images/1.jpg > temp_images/1.jpg
 cat images/2.jpg > temp_images/2.jpg
 ```
-* Mozgasd a 6.jpg fájlt az images könyvtárba a css-ből
-* Töröld ki a 7.jpg fájlt a css-ből
-* Commit-old és Push-old a változtatásaidat
+* Mozgasd a 6.jpg fájlt az images könyvtárba a css-ből: `mv css/6.jpg images`
+* Töröld ki a 7.jpg fájlt a css-ből: `rm css/7.jpg`
+* Commit-old és Push-old a változtatásaidat:
+```git
+git status
+git add .
+git push -u origin HEAD
+```
