@@ -12,7 +12,7 @@ cat images/2.jpg > temp_images/2.jpg
 * Mozgasd a 6.jpg fájlt az images könyvtárba a css-ből: `mv css/6.jpg images`
 * Töröld ki a 7.jpg fájlt a css-ből: `rm css/7.jpg`
 * Commit-old és Push-old a változtatásaidat:
-```cli
+```txt
 git status
 git add .
 git push -u origin HEAD
