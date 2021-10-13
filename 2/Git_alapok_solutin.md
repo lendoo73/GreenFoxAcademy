@@ -4,5 +4,5 @@
     * Látogass el az oldalra
     * Nyomj a fork-ra
 * Hozz létre egy klónt a `greenfox` könyvtárba.
-    * git clone: ``
+    * git clone: `git clone https://github.com/lendoo73/git-lesson-repository.git`git
     * A fork-ról hozd létre a klónt, ne az eredeti repository-ról
